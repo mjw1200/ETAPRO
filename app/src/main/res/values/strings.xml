@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ETAPRO</string>
     <string name="etapro">ETAPRO</string>
+    <string name="where_to">Where To?</string>
+    <string name="bozeman">Bozeman</string>
+    <string name="livingston">Livingston</string>
+    <string name="next_right_arrow">Next →</string>
 </resources>
