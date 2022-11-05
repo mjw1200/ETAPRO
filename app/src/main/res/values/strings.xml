@@ -5,4 +5,18 @@
     <string name="bozeman">Bozeman</string>
     <string name="livingston">Livingston</string>
     <string name="next_right_arrow">Next →</string>
+    <string name="kph">KPH</string>
+    <string name="mph">MPH</string>
+    <string name="your_current_speed">Your Current Speed</string>
+    <string name="eighty_mph">80 MPH</string>
+    <string name="quit">Kwit</string>
+    <string name="title_activity_speed_display">SpeedDisplay</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 </resources>
